@@ -8,7 +8,7 @@ from modules.traps import main_trap_text
 from modules.coach import coaching_session, coach_from_journal, render_coach_html
 from modules.charts import price_chart
 
-st.set_page_config(page_title="Thomas Investor OS V1.0", page_icon="assets/investor_os.ico", layout="wide")
+st.set_page_config(page_title="Thomas Investor OS V1.0", page_icon="assets/Thomas_Investor_OS_Icon.ico", layout="wide")
 
 st.markdown("""
 <style>
